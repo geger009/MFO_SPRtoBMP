@@ -29,3 +29,6 @@
 
 # OSX auto-generate files
 *.DS_Store
+
+# Visual Studio
+.vs
