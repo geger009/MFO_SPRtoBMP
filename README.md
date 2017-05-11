@@ -1,5 +1,3 @@
-## WIP
-
 ## SPRtoBMP (MiniFighter Online)
 
 This project only for **educational purposes**, **proof of concept** and **for my own satisfaction**.
